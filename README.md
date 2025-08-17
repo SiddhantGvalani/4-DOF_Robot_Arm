@@ -3,3 +3,11 @@ Welcome to this repository! Industrial Automation is taking over the manafacturi
 # DESCRIPTION
 The platform used to sketch our robot arm is SolidWorks. We will be using common techniques such as sketch, smart dimensions, extrude/revolce base, extrude cut, mirror/cut/trim/convert entities, etc. It is imperative to understand why certain actions are taken in the overall design of the arm. Essentially, ask yourself as to why we are performing this action. Why are we extruding mid-section? Why is the dimension of this part of the link so and so...
 Additionally, to control the robot arm we will use the Arduino uno via joysticks. We will be writing code in C++ to interface with our said microcontroller.
+
+# INSTALLATION
+Insatalling SolidWorks may be a problem for non-students. However, for students, institutions do provide software such as the "SolidWorks Student Software edition". Find more information in the link below
+````bash
+https://www.solidworks.com/product/solidworks-3d-cad
+````
+
+Installing Arduino IDE or VS code is straightforward. 
