@@ -11,3 +11,14 @@ https://www.solidworks.com/product/solidworks-3d-cad
 ````
 
 Installing Arduino IDE or VS code is straightforward. 
+Ardunio IDE Installation: 
+````bash
+https://www.arduino.cc/en/software/
+````
+OR 
+
+VS Code Installation:
+````bash
+https://code.visualstudio.com/download
+````
+We could interface with our robot arm using any of the foresaid IDE Platform. Keep in mind VS Code would require additional setups such as installing Platfrom IO, but it might be worth the extra steps because of VS Code's extra function-call options
