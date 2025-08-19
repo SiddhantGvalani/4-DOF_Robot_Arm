@@ -16,7 +16,7 @@ ground pin to a common 0V rail in the breadboard. The joystick's 'Rx' pin will b
 
 
 
-## ⚙️ Servo 
+## Servo 
 
  Joint      | Servo Pin 
  Base       | D3        
@@ -26,7 +26,7 @@ ground pin to a common 0V rail in the breadboard. The joystick's 'Rx' pin will b
 
 ---
 
-##  Joystick Connections
+## Joystick Connections
 
  Joystick Pin | Arduino Pin 
 
